@@ -52,7 +52,7 @@ $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 ```
 
-## Workflow
+# Workflow
 
 ### Initiate
 
@@ -69,8 +69,6 @@ From the local part there are
 ![ç¸å³æä½å¨ç"æä¸­å¾è§£](https://crackfree.github.io/2017/03/10/Depth-comprehension-of-git-structure-and-conception-md/git-data-transport-commands.png)
 
 
-
-![image-20190111180032837](/Users/qiuyuheng/Library/Application Support/typora-user-images/image-20190111180032837.png)
 
 You can think of the HEAD as the "current branch". When you switch branches with `git checkout`, the HEAD revision changes to point to the tip of the new branch.
 
@@ -105,8 +103,6 @@ You can think of the HEAD as the "current branch". When you switch branches with
   `git commit -am 'finished the feature'`
 
   `git push origin yourfeature#issuenumber # git push <remote> <branch>`
-
-- Use OpsWorks to upload your code to AWS for testing (see conf-cookbook repo for instructions)
 
 - Then, go to github.com and issue a pull request using the branch
 
