@@ -1,7 +1,5 @@
 # Git & Github
 
-Author: Hale
-
 1. what, why git
 2. what is github
 3. git workflow
@@ -63,8 +61,6 @@ $ git config --global user.email "email@example.com"
 
 
 ## Git structure 
-
-From the local part there are 
 
 ![ç¸å³æä½å¨ç"æä¸­å¾è§£](https://crackfree.github.io/2017/03/10/Depth-comprehension-of-git-structure-and-conception-md/git-data-transport-commands.png)
 
